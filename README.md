@@ -1,4 +1,4 @@
-Hi there, Im John, a self thought web developer / system developer in java
+Hi there, Im John, a self thought web developer / beginner system developer in java
 Im quite new to this field since I literally have basic knowledge in some development processes. 
 
 If you wish to collaborate , you can contact me on my email.
